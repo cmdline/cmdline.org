@@ -57,10 +57,9 @@ footer {
     border-left: 3px solid $accent-content;
 }
 
-.thirds {
+.columns {
     div {
         display: inline-block;
-        width: 30%;
         padding-left: $spacing;
         padding-right: 2 * $spacing;
         border-left: 1px solid $accent-content;
@@ -68,3 +67,13 @@ footer {
         vertical-align: top;
     }
 }
+
+@mixin columns($columns) {
+    @extend .columns;
+    div {
+        width: (100% - 1%) / $columns;
+    }
+}
+
+.halves { @include columns(2); }
+.thirds { @include columns(3); }

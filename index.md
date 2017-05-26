@@ -11,7 +11,7 @@
 
  piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by
 
-<div class="thirds">
+<div class="halves">
     <div>
         <h3>placeholder</h3>
 
@@ -22,12 +22,6 @@
         <h3>placeholder</h3>
 
         <p>rerum facilis est et expedita distinctio. Na.</p>
-    </div>
-
-    <div>
-        <h3>placeholder abc</h3>
-
-        <p>gni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui do.</p>
     </div>
 </div>
 
