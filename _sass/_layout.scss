@@ -11,9 +11,9 @@ html {
 }
 
 body {
-    width: 700px;
+    width: $content-width;
     max-width: 100%;
-    padding: 0 1em;
+    padding: 0 (2 * $spacing);
     margin: 0 auto;
 }
 
@@ -29,12 +29,13 @@ a {
 }
 
 header {
-    margin: 0 auto 3em auto;
+    margin: 0 auto;
+    margin-bottom: 4 * $spacing;
 
     h1 {
         font-family: $heading-font;
         font-size: 3em;
-        margin: 2rem 0 0 0;
+        margin: (2 * $spacing) 0 0 0;
     }
 }
 
