@@ -9,16 +9,16 @@
 </div>
 
 <div>
-    <h2>who</h2>
+    <h2>Who are we?</h2>
 </div>
 
 <div class="halves">
     <div>
-        <h3>grayhatter -- Principal</h3>
+        <h3>Gregory Mullen – Principal</h3>
         <p>Founding member of cmdline.org, has been working in various network security positions for over 14 years.</p>
     </div>
     <div>
-        <h3>robinli -- Partner</h3>
+        <h3>Robin Lindén – Partner</h3>
         <p>Joined the cmdline.org team in 2016. Swedish engineer with over 7 years’ experience in consulting, in both security and software development projects.</p>
     </div>
 </div>
